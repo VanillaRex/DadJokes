@@ -37,6 +37,7 @@ struct JokeStore {
     Joke(description: "New master", punchline: "Joke"),
     Joke(description: "Second new master", punchline: "Joke"),
     Joke(description: "Third new master", punchline: "Joke"),
+    Joke(description: "Better", punchline: "Joke"),
   ]
 }
 
